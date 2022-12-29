@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Vishist 💻🖥️🐱‍💻</h1>
 <h3 align="center">A computer Engineering undergrad</h3>
 
-<img src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1" alt="webdev">
+<img src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1" alt="webdev" align="center">
      
 - 📫 Contact me via **vishist.bhagabati123@gmail.com**
 
