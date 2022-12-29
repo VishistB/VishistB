@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I am Vishist 💻🖥️🐱‍💻</h1>
 <h3 align="center">A computer Engineering undergrad</h3>
 
+<img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="code" align="right">
+     
 - 📫 Contact me via **vishist.bhagabati123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
