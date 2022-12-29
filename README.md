@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Vishist 💻🖥️🐱‍💻</h1>
 <h3 align="center">A computer Engineering undergrad</h3>
 
-- 📫 How to reach me **vishist.bhagabati123@gmail.com**
+- 📫 Contact me via **vishist.bhagabati123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
