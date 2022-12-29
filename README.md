@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Vishist 💻🖥️🐱‍💻</h1>
 <h3 align="center">A computer Engineering undergrad</h3>
 
-<img src="[https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif](https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif)" alt="webdev">
+<img src="https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif" alt="webdev">
      
 - 📫 Contact me via **vishist.bhagabati123@gmail.com**
 
