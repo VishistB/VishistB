@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishist bhagabati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishist bhagabati" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vishist bhagabati](https://www.linkedin.com/in/vishist-bhagabati-738398227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishist bhagabati" height="30" width="40" /></a>
 <a href="https://instagram.com/vishistbhagabati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishistbhagabati" height="30" width="40" /></a>
 </p>
 
